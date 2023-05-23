@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Exoplanet Radio"
+title                    : "Deep Astronomy Website Name"
 title_separator          : "-"
-subtitle                 : "Exotic Worlds Beyond Our Solar System"
+subtitle                 : "Website Tagline"
 name                     : "Deep Astronomy, LLC"
-description              : " Have you ever wondered what lies beyond our solar system? Are there other planets like Earth out there? How do we find them and study them? What can they teach us about ourselves and our place in the universe?  If you are curious about these questions, then Exoplanet Radio is for you. We will explore the fascinating field of exoplanets, the planets that orbit other stars. We will learn about the history and methods of exoplanet discovery, the diversity and characteristics of exoplanets, the challenges and opportunities of exoplanet science, and the implications and prospects of exoplanet life.  Join us on this journey of wonder and discovery, as we venture into the unknown and uncover the secrets of the worlds beyond our solar system."
+description              : "Nice Description Here"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "DeepAstronomy/ExoplanetRadio"
+repository               : "DeepAstronomy/NewWebSiteTemplate"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/ExoplanetRadioLogo_100px.png"
-masthead_title           : "Exoplanet Radio"
+masthead_title           : "Website Title"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Tony Darnell"
   avatar           : "/assets/images/deep-astron-host-darnell-bw.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Host of Exoplanet Radio"
+  bio              : "Runner of this Website"
   location         : #"Somewhere"
   email            :
   links:

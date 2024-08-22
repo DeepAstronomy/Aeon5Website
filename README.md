@@ -1,6 +1,5 @@
 # Generic Website Template
 
-**Generic Website Template**
+**Website Files for Aeon5**
 
-Use this to create a Deep Astronomy styled website using settings and the
-minimal mistakes theme.
+Here are the website file for Aeon5.com
